@@ -2,7 +2,7 @@
   import { reactive } from 'vue';
   import Cabecalho from './components/Cabecalho.vue';
   import Formulario from './components/Formulario.vue';
-  import ListaDeTarefas from './components/Listadetarefas.vue';
+  import ListaDeTarefas from './components/Listadetarefas.vue'; //teste
 
 const estado = reactive ({
   filtro: 'todas',
